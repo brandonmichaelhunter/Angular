@@ -1,0 +1,29 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* Add application styles & imports to this file! */
+input.form-control {
+  min-width: 250px !important;
+  max-width: 250px !important;
+}
+select.form-control {
+  min-width: 250px !important;
+  max-width: 250px !important;
+}
+th {
+  min-width: 250px !important;
+  max-width: 250px !important;
+}
+
+form{
+  /*width:90% !important;*/
+}
+/* .indexCol {
+  width: 5% !important;
+}
+.actionCol {
+  width: 5% !important;
+} */
+.addnewrackserverformbtn{
+  width: 250px !important;
+  margin-bottom:1%;
+}
